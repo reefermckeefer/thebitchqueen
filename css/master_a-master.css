@@ -1,0 +1,35 @@
+#u272
+{
+	border-color: #000000;
+	background-color: #252525;
+}
+
+#u272_align_to_page
+{
+	position: relative;
+}
+
+#u275-4
+{
+	background-color: transparent;
+	line-height: 90px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 75px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 100;
+	position: relative;
+}
+
+#u277-4
+{
+	background-color: transparent;
+	line-height: 30px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
